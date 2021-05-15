@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewIdProduto" type="id" />
+    <item name="textViewNomeProduto" type="id" />
+    <item name="textViewCategoriProduto" type="id" />
+    <item name="textViewPrecoProduto" type="id" />
+</resources>
